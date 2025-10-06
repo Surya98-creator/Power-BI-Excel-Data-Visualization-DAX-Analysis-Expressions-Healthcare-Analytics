@@ -42,21 +42,21 @@ The dashboard integrates data-driven storytelling for healthcare executives — 
 
 ##  Key Dashboards & Insights
 
-### **1️ Active User Trend Analysis**
+### ** 1. Active User Trend Analysis**
 - Visual: Line Chart  
 - Description: Tracks daily and monthly variations in active patient participation.  
 - Insight: Helps identify engagement consistency across time.
 
 ---
 
-### **2️ Engagement vs Drop-Off & Feedback (Dual-Axis)**
+### ** 2. Engagement vs Drop-Off & Feedback (Dual-Axis)**
 - Visual: Combo Chart with Dual Y-Axis  
 - Description: Correlates Active Users, Drop-Off %, and Feedback Scores.  
 - Insight: Identifies how user satisfaction impacts retention.
 
 ---
 
-### **3️ KPI Metrics Summary**
+### **️ 3. KPI Metrics Summary**
 - Visual: KPI Cards  
 - Description: Displays Total Active Users, Average Drop-Off %, and Mean Feedback Score.  
 - Insight: Quick, executive-level overview for healthcare management.
@@ -80,14 +80,6 @@ Power BI | Excel | DAX | Data Modeling | Healthcare Analytics | KPI Design | Dat
 - Simplified complex healthcare metrics into actionable insights.  
 - Enabled performance tracking across multiple timeframes.  
 - Strengthened decision-making in remote patient engagement programs.  
-
----
-
-##  Project Files
-- `RPM_Advanced_Project.pbix` — Power BI Dashboard File  
-- `RPM_Advanced_Project.pdf` — Dashboard Report for Presentation  
-
----
 
 ---
 
