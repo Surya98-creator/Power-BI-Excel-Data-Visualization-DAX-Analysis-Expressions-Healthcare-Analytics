@@ -63,6 +63,34 @@ The dashboard integrates data-driven storytelling for healthcare executives — 
 
 ---
 
+### ** 4. Feedback Score Trend**
+ - Feedback Score Trend
+ - Description: Visualizes fluctuations in patient satisfaction levels.
+ - Description: Visualizes fluctuations in patient satisfaction levels.
+
+---
+
+### ** 5. Engagement vs Drop-Off & Feedback (Dual-Axis)**
+ - Visual: Dual-Axis Combo Chart
+ - Description: Correlates engagement metrics with satisfaction and drop-off rates.
+ - Insight: Helps identify whether poor feedback aligns with disengagement.
+
+---
+
+### ** 6. Healthcare Engagement Insights (Multi-Metric Chart)**
+ - Visual: Multi-line chart
+ - Description: Integrates multiple metrics for holistic performance tracking.
+ - Insight: Demonstrates interdependencies among core healthcare KPIs.
+
+___
+
+### ** 7. KPI Summary Dashboard (Executive View)**
+ - Visual: KPI Cards
+ - Description: Displays Total Active Users, Avg Drop-Off %, and Avg Feedback Score.
+ - Insight: High-level summary for strategic and executive decision-making.
+
+---
+
 ##  Technical Highlights
 - Created calculated columns and DAX measures for aggregated insights.  
 - Applied **Year-Month-Day hierarchy** for detailed time-series analytics.  
