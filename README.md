@@ -7,7 +7,7 @@ Advanced Power BI dashboard analyzing patient engagement, drop-off rates, and fe
 
 ---
 
-##� Project Overview
+## Project Overview
 This project focuses on developing an **advanced Power BI dashboard** to analyze *Remote Patient Monitoring (RPM)* data for healthcare analytics.  
 It provides meaningful insights into **patient engagement, satisfaction, and retention** through visualizations and KPIs.
 
@@ -76,7 +76,7 @@ Power BI | Excel | DAX | Data Modeling | Healthcare Analytics | KPI Design | Dat
 
 ---
 
-##  Outcomes
+## Outcomes
 - Simplified complex healthcare metrics into actionable insights.  
 - Enabled performance tracking across multiple timeframes.  
 - Strengthened decision-making in remote patient engagement programs.  
