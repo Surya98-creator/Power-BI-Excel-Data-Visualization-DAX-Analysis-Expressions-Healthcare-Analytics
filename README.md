@@ -56,7 +56,7 @@ The dashboard integrates data-driven storytelling for healthcare executives — 
 
 ---
 
-### **️ 3. KPI Metrics Summary**
+### ** 3. KPI Metrics Summary**
 - Visual: KPI Cards  
 - Description: Displays Total Active Users, Average Drop-Off %, and Mean Feedback Score.  
 - Insight: Quick, executive-level overview for healthcare management.
